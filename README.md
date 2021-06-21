@@ -4,27 +4,27 @@
 - :neckbeard:
 
 Here is my skills and strengths:
-✓  expert in Typescript
-✓  expert in Vue.js
-✓  expert in Golang 
-✓  expert in Node.js
+✓  expert in Typescript :sparkling_heart:
+✓  expert in Vue.js  :star2:
+✓  expert in Golang :sparkles:
+✓  expert in Node.js :boom:
 ✓  database design, development, optimization and migration (PostgreSQL, MySQL, MongoDB)
 ✓ years of experience in development web applications security
 ✓ Expert in WebSocket and Socket.io for real-time client and server applications
 
 Backend stack: 
-- Golang
-- Node.js
+- Golang :blue_heart:
+- Node.js :green_heart:
 
 Database layer: 
-- PostgreSQL
-- MySQL
-- MongoDB
-- Redis
+- PostgreSQL :fire:
+- MySQL  :punch:
+- MongoDB :heart_eyes:
+- Redis :dash:
 
 Frontend stack: 
-- Vue.js
-- TypeScript
+- Vue.js :heartpulse:
+- TypeScript :musical_note:
 
 Message Services:
 - RabbitMQ
@@ -33,8 +33,8 @@ Message Services:
 - Redis
 
 DevOps:
-- Docker
+- Docker :cyclone:
 - Bash, PowerShell scripting
 - Version Control Systems: Git
 - Nginx configuration
-- Kubernetes 
+- Kubernetes :snowflake:
