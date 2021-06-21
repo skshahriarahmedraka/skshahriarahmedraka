@@ -1,2 +1,7 @@
 # sk-shahriar-ahmed-raka
-peace be upon you
+###  Hi ( Peace be upon you ) , I'm Sk Shahriar Ahmed Raka 
+
+## A Curious Learner , Full Stack Web Developer and Student ;-)
+- :neckbeard:
+
+
