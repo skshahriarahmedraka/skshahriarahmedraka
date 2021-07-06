@@ -4,9 +4,9 @@
 - :neckbeard:
 
 other profiles :
-# upwork : upwork.com/o/profiles/users/~0107ef3405bffbe57e/
-# linkedin : linkedin.com/in/sk-shahriar-ahmed-raka-862a31193/
-# telegram : t.me/shahriarraka
+### upwork : upwork.com/o/profiles/users/~0107ef3405bffbe57e/
+### linkedin : linkedin.com/in/sk-shahriar-ahmed-raka-862a31193/
+### telegram : t.me/shahriarraka
 
 Here is my skills and strengths:
 ✓  expert in Typescript :sparkling_heart:
