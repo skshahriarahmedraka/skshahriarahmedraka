@@ -1,45 +1,33 @@
 ###  Hi ( Peace be upon you ) , I'm "Sk Shahriar Ahmed Raka" 
 
 # A Curious Learner, Full-Stack Web Developer, Security Researcher 
-- :neckbeard:
 
-other profiles :
-### upwork : upwork.com/o/profiles/users/~0107ef3405bffbe57e/
-### linkedin : linkedin.com/in/sk-shahriar-ahmed-raka-862a31193/
-### telegram : t.me/shahriarraka
+<a href="https://www.upwork.com/o/profiles/users/~0107ef3405bffbe57e/">
+  <img align="left" alt="https://www.upwork.com/o/profiles/users/~0107ef3405bffbe57e/" width="100px" src="img/upwork.png" />
+</a>
+<a href="https://www.linkedin.com/in/sk-shahriar-ahmed-raka-862a31193/">
+  <img align="left" alt="https://www.linkedin.com/in/sk-shahriar-ahmed-raka-862a31193/" width="30px" src="img/linkedin.png" />
+</a>
+<a href="https://www.t.me/shahriarraka">
+  <img align="left" alt="https://www.t.me/shahriarraka" width="30px" src="img/telegram2.png" />
+</a>
 
-Here is my skills and strengths:
-✓  expert in Typescript :sparkling_heart:
-✓  expert in Vue.js  :star2:
-✓  expert in Golang :sparkles:
-✓  expert in Node.js :boom:
-✓  database design, development, optimization and migration (PostgreSQL, MySQL, MongoDB)
-✓ years of experience in development web applications security
-✓ Expert in WebSocket and Socket.io for real-time client and server applications
 
-Backend stack: 
-- Golang :blue_heart:
-- Node.js :green_heart:
+<br/>
+<br/>
 
-Database layer: 
-- PostgreSQL :fire:
-- MySQL  :punch:
-- MongoDB :heart_eyes:
-- Redis :dash:
+I’m a middle-level full-stack software developer, but Backend is my specialty. I have some years of development experience. 
 
-Frontend stack: 
-- Vue.js :heartpulse:
-- TypeScript :musical_note:
+Here are my skills and strengths:
 
-Message Services:
-- RabbitMQ
-- NATS
-- SMTP/POP3/IMAP
-- Redis
+✓  Expert in Golang <br/>
+✓  Expert in Fiber framework (using Golang) <br/>
+✓  Expert in WebAssembly (using Golang) <br/>
+✓  Expert in database design, development, optimization, and migration <br/>
+   (PostgreSQL, MySQL, MongoDB , Redis)<br/>
+✓  Expert in ( Grpc, protocol buffer )<br/>
+✓  Experienced in ( WebSocket, Socket.io, WebRTC ) for real-time client and server applications <br/>
+✓  Experienced in ( Vue.js ) and some knowledge in ( TypeScript )<br/>
+✓  Good understanding of ( Docker, Bash, PowerShell, Git,<br/>
+   Nginx, Kubernetes )<br/>
 
-DevOps:
-- Docker :cyclone:
-- Bash, PowerShell scripting
-- Version Control Systems: Git
-- Nginx configuration
-- Kubernetes :snowflake:
