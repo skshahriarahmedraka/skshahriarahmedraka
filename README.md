@@ -10,15 +10,10 @@
 </a>
 <a href="https://www.t.me/shahriarraka">
   <img align="left" alt="https://www.t.me/shahriarraka" width="30px" src="img/telegram2.png" />
-</a>
+</a><br/><br/>
 
 
-<br/>
-<br/>
-
-I’m a middle-level full-stack software developer, but Backend is my specialty. I have some years of development experience. 
-
-Here are my skills and strengths:
+### Here are my skills and strengths:
 
 ✓  Expert in Golang <br/>
 ✓  Expert in Fiber framework (using Golang) <br/>
