@@ -11,7 +11,9 @@
 <a href="https://www.t.me/shahriarraka">
   <img align="left" alt="https://www.t.me/shahriarraka" width="30px" src="img/telegram2.png" />
 </a><br/><br/>
-
+<a href="https://www.t.me/shahriarraka">
+  <img align="left" alt="https://www.t.me/shahriarraka" width="30px" src="img/StackOverflow.svg" />
+</a><br/><br/>
 
 ### Here are my skills and strengths:
 
