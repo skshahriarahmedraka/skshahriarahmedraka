@@ -10,9 +10,9 @@
 </a>
 <a href="https://www.t.me/shahriarraka">
   <img align="left" alt="https://www.t.me/shahriarraka" width="30px" src="img/telegram2.png" />
-</a><br/><br/>
+</a><br/>
 <a href="https://www.t.me/shahriarraka">
-  <img align="left" alt="https://www.t.me/shahriarraka" width="30px" src="img/StackOverflow.svg" />
+  <img align="left" alt="https://www.t.me/shahriarraka" width="200px" src="img/StackOverflow.png" />
 </a><br/><br/>
 
 ### Here are my skills and strengths:
