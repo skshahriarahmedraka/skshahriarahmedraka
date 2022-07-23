@@ -12,10 +12,10 @@
   <img align="left" alt="https://www.t.me/shahriarraka" width="30px" src="img/telegram2.png" />
 </a>
 <a href="https://stackoverflow.com/users/12216779/sk-shahriar-ahmed-raka">
-  <img align="left" alt="https://stackoverflow.com/users/12216779/sk-shahriar-ahmed-raka" width="50px" src="img/stackoverflow.png" />
+  <img align="left" alt="https://stackoverflow.com/users/12216779/sk-shahriar-ahmed-raka" width="35px"  src="img/stackoverflow.png" />
 </a>
-<a href="https://www.t.me/shahriarraka">
-  <img align="left" alt="https://www.t.me/shahriarraka" width="200px" src="img/hashnode2.png" />
+<a href="https://raka.hashnode.dev/">
+  <img align="left" alt="https://raka.hashnode.dev/" width="150px" src="img/hashnode2.png" />
 </a>
 <br/><br/>
 
