@@ -12,8 +12,12 @@
   <img align="left" alt="https://www.t.me/shahriarraka" width="30px" src="img/telegram2.png" />
 </a>
 <a href="https://stackoverflow.com/users/12216779/sk-shahriar-ahmed-raka">
-  <img align="left" alt="https://stackoverflow.com/users/12216779/sk-shahriar-ahmed-raka" width="200px" src="img/StackOverflow(1).png" />
-</a><br/><br/>
+  <img align="left" alt="https://stackoverflow.com/users/12216779/sk-shahriar-ahmed-raka" width="50px" src="img/stackoverflow.png" />
+</a>
+<a href="https://www.t.me/shahriarraka">
+  <img align="left" alt="https://www.t.me/shahriarraka" width="200px" src="img/hashnode2.png" />
+</a>
+<br/><br/>
 
 ### Here are my skills and strengths:
 
