@@ -22,13 +22,14 @@
 ### Here are my skills and strengths:
 
 ✓  Expert in Golang <br/>
-✓  Expert in Fiber framework (using Golang) <br/>
+✓  Expert in Gin Framework & Fiber framework (using Golang) <br/>
+✓  Expert in Robust and Clean server development (using Golang) <br/>
 ✓  Expert in WebAssembly (using Golang) <br/>
 ✓  Expert in database design, development, optimization, and migration <br/>
    (PostgreSQL, MySQL, MongoDB , Redis)<br/>
 ✓  Expert in ( Grpc, protocol buffer )<br/>
 ✓  Experienced in ( WebSocket, Socket.io, WebRTC ) for real-time client and server applications <br/>
-✓  Experienced in ( Vue.js ) and some knowledge in ( TypeScript )<br/>
+✓  Experienced in Svelte Framework & SvelteKit Framework  and some knowledge in ( TypeScript )<br/>
 ✓  Good understanding of ( Docker, Bash, PowerShell, Git,<br/>
    Nginx, Kubernetes )<br/>
 
