@@ -1,6 +1,6 @@
-###  Hi ( Peace be upon you ) , I'm "Sk Shahriar Ahmed Raka" 
+### Hi ( Peace be upon you ) , I'm "Sk Shahriar Ahmed Raka"
 
-# A Curious Learner, Full-Stack Web Developer, Security Researcher 
+# A Curious Learner, Golang Developer, Full-Stack Engineer, Security Researcher
 
 <a href="https://www.upwork.com/o/profiles/users/~0107ef3405bffbe57e/">
   <img align="left" alt="https://www.upwork.com/o/profiles/users/~0107ef3405bffbe57e/" width="100px" src="img/upwork.png" />
@@ -32,4 +32,3 @@
 ✓  Experienced in Svelte Framework & SvelteKit Framework  and some knowledge in ( TypeScript )<br/>
 ✓  Good understanding of ( Docker, Bash, PowerShell, Git,<br/>
    Nginx, Kubernetes )<br/>
-
