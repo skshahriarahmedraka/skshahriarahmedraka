@@ -1,7 +1,7 @@
-### Hi ( Peace be upon you ) , I'm "Sk Shahriar Ahmed Raka"
-
-# A Curious Learner, Golang Developer, Full-Stack Engineer, Security Researcher
-
+<h1 align="center"><img src="https://github.com/gitsdeepak/gitsdeepak/blob/master/Assets/Hi.gif" width="25px">Hi! I'm <a href="https://skshahriarahmedraka.github.io">Sk Shahriar Ahmed Raka</a> 🐬 !</h1>
+<h1 align="center">
+A Curious Learner | Golang Developer | Full-Stack Engineer | Security Researcher
+</h1>
 <a href="https://www.upwork.com/o/profiles/users/~0107ef3405bffbe57e/">
   <img align="left" alt="https://www.upwork.com/o/profiles/users/~0107ef3405bffbe57e/" width="100px" src="img/upwork.png" />
 </a>
