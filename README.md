@@ -17,11 +17,11 @@ A Curious Learner | Golang Developer | Full-Stack Engineer | Security Researcher
 </a>
   <a href="https://twitter.com/shahriarraka7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahriarraka7" height="30" width="40" />
   </a>
-<a href="https://kaggle.com/https://www.kaggle.com/shahriarraka" target="blank"><img  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/shahriarraka" height="30" width="40" />
+<a href="https://www.kaggle.com/shahriarraka" target="blank"><img  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/shahriarraka" height="30" width="40" />
   </a>
-<a href="https://medium.com/@medium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@medium" height="30" width="40" />
+<a href="https://medium.com/@shahriarraka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@medium" height="30" width="40" />
   </a>
-<a href="https://www.leetcode.com/https://leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/" height="30" width="40" />
+<a href="https://leetcode.com/AhmedRaka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/" height="30" width="40" />
   </a>
 <a href="https://raka.hashnode.dev/">
   <img align="center" alt="https://raka.hashnode.dev/" width="150px" src="img/hashnode2.png" />
