@@ -27,7 +27,6 @@ A Curious Learner | Golang Developer | Full-Stack Engineer | Security Researcher
   <img align="center" alt="https://raka.hashnode.dev/" width="150px" src="img/hashnode2.png" />
 </a>
 </h1>
-<br/><br/>
 
 ### Here are my skills and strengths:
 
