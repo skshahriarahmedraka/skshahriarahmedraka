@@ -3,7 +3,7 @@
 A Curious Learner | Golang Developer | Full-Stack Engineer | Security Researcher
 </h1>
 <h1 align="center">
-<a href="https://www.upwork.com/o/profiles/users/~0107ef3405bffbe57e/">
+<a href="https://www.upwork.com/o/profiles/users/~0107ef3405bffbe57e/" target="_blank">
   <img align="center" alt="https://www.upwork.com/o/profiles/users/~0107ef3405bffbe57e/" width="100px" src="img/upwork.png" />
 </a>
 <a href="https://www.linkedin.com/in/sk-shahriar-ahmed-raka-862a31193/">
