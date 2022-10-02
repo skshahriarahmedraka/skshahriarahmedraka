@@ -53,3 +53,11 @@ A Curious Learner | Golang Developer | Full-Stack Engineer | Security Researcher
    
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=skshahriarahmedraka&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
   </div>
+<h3>Recent Blogs: </h3>
+<div align="center">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shahriarraka/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shahriarraka/0" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shahriarraka/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shahriarraka/1" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shahriarraka/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shahriarraka/2" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shahriarraka/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shahriarraka/3" alt="Recent Article 2"> 
+
+</div>
