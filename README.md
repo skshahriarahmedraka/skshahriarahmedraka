@@ -30,17 +30,15 @@ A Curious Learner | Golang Developer | Full-Stack Engineer | Security Researcher
 
 ### Here are my skills and strengths:
 
-✓  Expert in Golang <br/>
-✓  Expert in Gorilla mux, Gin Framework & Fiber framework (using Golang) <br/>
-✓  Expert in Robust and Clean server development (using Golang) <br/>
-✓  Expert in WebAssembly (using Golang) <br/>
-✓  Expert in database design, development, optimization, and migration <br/>
-   (PostgreSQL, MySQL, MongoDB , Redis)<br/>
-✓  Expert in  Grpc, protocol buffer using Golang<br/>
-✓  Experienced in ( WebSocket, WebRTC ) for real-time client and server applications <br/>
-✓  Experienced in Svelte Framework & SvelteKit Framework  and some knowledge in ( TypeScript )<br/>
-✓  Good understanding of ( Docker, Bash, PowerShell, Git,<br/>
-   Nginx, Kubernetes )<br/>
+⭐️ Expert in Software Development Using Golang  <br/>
+⭐️ Expert in Gorilla Mux, Gin Framework & Fiber framework (using Golang)<br/>
+⭐️ Exper in  Docker, Kafka, Jenkins <br/>
+⭐️ Expert in database design, development & optimization (PostgreSQL, MySQL, MongoDB, ScyllaDB, Apache Cassandra)<br/>
+✓ Experienceed in ( Grpc, protocol buffer )<br/>
+✓ Experienced in ( WebSocket, Socket.io, WebRTC ) for real-time client and server applications<br/>
+✓ Experienced in ( Tailwindcss, Svelte.js & SvelteKit ) with  TypeScript<br/>
+✓ Good understanding of ( Kubernetes, Bash, PowerShell, Git, Nginx )<br/>
+
 <div align="center">
   <a href="https://github.com/skshahriarahmedraka">
     <img height="180em"
