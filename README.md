@@ -1,6 +1,5 @@
-<p align="center" style="font-size: 24px;" ><img src="https://github.com/gitsdeepak/gitsdeepak/blob/master/Assets/Hi.gif" width="25px"> 
-  <span style="font-size: 24px;">Hi! Peace Be Upon You, I'm <a href="https://github.com/skshahriarahmedraka">Sk Shahriar Ahmed Raka</a> 🐬 !</span>
-</p>
+# <img src="https://github.com/gitsdeepak/gitsdeepak/blob/master/Assets/Hi.gif" width="25px">Hi! Peace Be Upon You, I'm <a href="https://github.com/skshahriarahmedraka">Sk Shahriar Ahmed Raka</a> 🐬 !
+
 <p align="center" style="font-size: 24px;" >
 <span style="font-size: 24px;">A Curious Learner | Golang Developer | Full-Stack Engineer | Security Researcher </span>
 </p>
