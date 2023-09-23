@@ -1,8 +1,8 @@
-<!-- <p color="white"> -->
-<!-- <h2 align="center" color="white" ><img src="https://github.com/gitsdeepak/gitsdeepak/blob/master/Assets/Hi.gif" width="25px" />  -->
-## Hi! Peace Be Upon You, I'm $${\color{blue}Sk Shahriar Ahmed Raka}$$ Sk Shahriar Ahmed Raka 🐬 !
-<!-- </h2> -->
-<!-- </p> -->
+<p color="white">
+<h2 align="center" color="white" ><img src="https://github.com/gitsdeepak/gitsdeepak/blob/master/Assets/Hi.gif" width="25px" /> 
+ Hi! Peace Be Upon You, I'm Sk Shahriar Ahmed Raka 🐬 !
+</h2>
+</p>
 <p align="center" style="font-size: 24px;">
 <span style="font-size: 24px;">A Curious Learner | Golang Developer | Full-Stack Engineer | Security Researcher </span>
 </p>
