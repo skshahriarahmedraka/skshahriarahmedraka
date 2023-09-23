@@ -1,5 +1,5 @@
 <p color="white">
-<h2 align="center" style="font-size: 24px;" ><img src="https://github.com/gitsdeepak/gitsdeepak/blob/master/Assets/Hi.gif" width="25px"> 
+<h2 align="center" color="white" ><img src="https://github.com/gitsdeepak/gitsdeepak/blob/master/Assets/Hi.gif" width="25px"> 
   Hi! Peace Be Upon You, I'm Sk Shahriar Ahmed Raka</a> 🐬 !
 </h2>
 </p>
