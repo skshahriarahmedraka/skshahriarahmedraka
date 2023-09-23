@@ -1,10 +1,10 @@
-<p color="white">
+
 <h2 align="center" color="white" ><img src="https://github.com/gitsdeepak/gitsdeepak/blob/master/Assets/Hi.gif" width="25px" /> 
  Hi! Peace Be Upon You, I'm Sk Shahriar Ahmed Raka 🐬 !
 </h2>
-</p>
-<!-- <p align="center" style="font-size: 24px;"> -->
+
 ## A Curious Learner | Golang Developer | Full-Stack Engineer | Security Researcher 
+<!-- <p align="center" style="font-size: 24px;"> -->
 <!-- </p> -->
 <h1 align="center">
 <a href="https://www.upwork.com/o/profiles/users/~0107ef3405bffbe57e/" target="_blank">
