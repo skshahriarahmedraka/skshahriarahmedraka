@@ -3,9 +3,9 @@
  Hi! Peace Be Upon You, I'm Sk Shahriar Ahmed Raka 🐬 !
 </h2>
 </p>
-<p align="center" style="font-size: 24px;">
-<span style="font-size: 24px;">A Curious Learner | Golang Developer | Full-Stack Engineer | Security Researcher </span>
-</p>
+<!-- <p align="center" style="font-size: 24px;"> -->
+## A Curious Learner | Golang Developer | Full-Stack Engineer | Security Researcher 
+<!-- </p> -->
 <h1 align="center">
 <a href="https://www.upwork.com/o/profiles/users/~0107ef3405bffbe57e/" target="_blank">
   <img align="center" alt="https://www.upwork.com/o/profiles/users/~0107ef3405bffbe57e/" width="100px" src="img/upwork.png" />
