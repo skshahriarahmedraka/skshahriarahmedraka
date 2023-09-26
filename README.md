@@ -64,3 +64,6 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shahriarraka/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shahriarraka/3" alt="Recent Article 2">
 
 </div>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=skshahriarahmedraka)
+![trophy](https://github-profile-trophy.vercel.app/?username=skshahriarahmedraka&theme=onedark)
