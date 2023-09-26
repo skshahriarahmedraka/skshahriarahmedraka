@@ -1,4 +1,3 @@
-
 <h2 align="center" color="white" ><img src="https://github.com/gitsdeepak/gitsdeepak/blob/master/Assets/Hi.gif" width="25px" /> 
  Hi! Peace Be Upon You, I'm Sk Shahriar Ahmed Raka 🐬 !
 </h2>
@@ -51,15 +50,17 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=skshahriarahmedraka&layout=compact&langs_count=10&theme=dark" />
 </div>
 
- <div align="center">
-   
+<div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=skshahriarahmedraka&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=skshahriarahmedraka&theme=dark)](https://git.io/streak-stats)
   </div>
+
 <h3>Recent Blogs: </h3>
 <div align="center">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shahriarraka/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shahriarraka/0" alt="Recent Article 2"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shahriarraka/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shahriarraka/1" alt="Recent Article 2"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shahriarraka/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shahriarraka/2" alt="Recent Article 2"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shahriarraka/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shahriarraka/3" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shahriarraka/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shahriarraka/3" alt="Recent Article 2">
 
 </div>
