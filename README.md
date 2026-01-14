@@ -52,7 +52,7 @@
 
 <div align="center">
 
-![My GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/skshahriarahmedraka)
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=skshahriarahmedraka&theme=dark)
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=skshahriarahmedraka&theme=dark)](https://git.io/streak-stats)
 
